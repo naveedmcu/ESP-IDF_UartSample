@@ -1,0 +1,10 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.adapterTargetName": "esp32",
+  "files.associations": {
+    "sdkconfig.h": "c",
+    "esp_system.h": "c",
+    "esp_log.h": "c"
+  },
+  "idf.espIdfPathWin": "C:\\Users\\HP\\esp\\esp-idf"
+}
